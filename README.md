@@ -7,5 +7,6 @@ cd jldev_uv
 uv sync
 julia --project -e 'using Pkg; Pkg.instantiate()'
 uv run main.py
+julia --project main.jl
 ```
 
