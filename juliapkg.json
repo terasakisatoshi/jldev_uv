@@ -1,0 +1,10 @@
+{
+    "julia": "1",
+    "packages": {
+        "JlDevUV": {
+        	"uuid" : "7f04729b-ef8a-45ad-bbde-f9800ff97cb0",
+            "path" : ".",
+            "dev": true
+        }
+    }
+}
